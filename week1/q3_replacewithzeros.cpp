@@ -60,7 +60,7 @@ int main() {
     }
   }
 
-  // Print the matrix.
+//printing mx
   for (int i = 0; i < r1; i++) {
     for (int j = 0; j < c1; j++) {
       cout << a[i][j] << " ";
