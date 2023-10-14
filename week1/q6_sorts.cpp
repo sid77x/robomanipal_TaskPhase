@@ -38,7 +38,7 @@ void selection(int n)
 int main()
 {
     cout<<"Enter the number of elements :";
-    int n;
+    int n; 
     cin>>n;
     cout<<"Enter the elements :";
     
